@@ -1,4 +1,4 @@
-## My [markbook](https://microly.github.io/bookmark.html)
+## My [markbook](/bookmark.html)
 
 
 ## Welcome to GitHub Pages
